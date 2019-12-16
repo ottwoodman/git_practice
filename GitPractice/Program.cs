@@ -12,6 +12,8 @@ namespace GitPractice
         {
             Console.WriteLine("dev 1");
             Console.WriteLine("dev 2");
+            Console.WriteLine("dev 3");
+            Console.WriteLine("dev 4");
         }
     }
 }
