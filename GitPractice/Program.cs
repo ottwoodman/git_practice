@@ -11,6 +11,7 @@ namespace GitPractice
         static void Main(string[] args)
         {
             Console.WriteLine("dev 1");
+            Console.WriteLine("dev 2");
         }
     }
 }
