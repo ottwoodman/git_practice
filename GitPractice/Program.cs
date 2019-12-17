@@ -15,6 +15,7 @@ namespace GitPractice
             Console.WriteLine("hotfix 1");
             Console.WriteLine("hotfix 2");
             Console.WriteLine("hotfix 3");
+            Console.WriteLine("hotfix 4");
         }
     }
 }
