@@ -12,6 +12,7 @@ namespace GitPractice
         {
             Console.WriteLine("main 1");
             Console.WriteLine("main 2");
+            Console.WriteLine("hotfix 1");
         }
     }
 }
